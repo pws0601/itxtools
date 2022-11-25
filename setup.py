@@ -11,7 +11,7 @@ setuptools.setup(
     description="preProcess for hyosungitx", ##
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="None", ##
+    url="https://github.com/pws0601/itxtools", ##
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
