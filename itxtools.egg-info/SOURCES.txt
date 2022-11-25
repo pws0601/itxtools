@@ -1,0 +1,7 @@
+README.md
+setup.cfg
+setup.py
+itxtools.egg-info/PKG-INFO
+itxtools.egg-info/SOURCES.txt
+itxtools.egg-info/dependency_links.txt
+itxtools.egg-info/top_level.txt

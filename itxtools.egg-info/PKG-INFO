@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: itxtools
+Version: 0.0.1
+Summary: preProcess for hyosungitx
+Home-page: None
+Author: WooSeok Park
+Author-email: pws0601@hyosung.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+hyosungITX's preProcess module
+
